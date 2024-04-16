@@ -7,4 +7,3 @@ The structure of the notebook is supposed to mirror a pytorch module with script
 - dataladers.py
 - train.py
 - inference.py
-- 
