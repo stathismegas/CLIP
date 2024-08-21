@@ -1,4 +1,4 @@
-The CLIP model (Contrastive Language Image Pre-training) by OpenAI revolutionzed text to image generation.
+The CLIP model (Contrastive Language Image Pre-training) by OpenAI revolutionzed text to image generation. Implementation adapted from https://github.com/moein-shariatnia/OpenAI-CLIP.
 
 Here we implement a quick version of and test it by prompting it with the phrase "cool as hell" :p 
 
